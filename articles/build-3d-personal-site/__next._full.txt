@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+4:I[77855,["/_next/static/chunks/6e4038cffb877d14.js","/_next/static/chunks/27749841b463623e.js"],"Toaster"]
+6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+:HL["/_next/static/chunks/34d933785a17edf3.css","style"]
+:HL["/_next/static/chunks/a3604a9b15ff8597.css","style"]
+:HL["/_next/static/chunks/e1e2cfec5e44c828.css","style"]
+:HL["/_next/static/chunks/c8ad183ed0b76b09.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f78483cb4757fca7-s.p.44f4d02d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/feb57b2dc8f29018-s.p.2539f70a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"yETM_NtXz9hKzORis8MyP","c":["","articles","build-3d-personal-site",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","build-3d-personal-site","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/34d933785a17edf3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/a3604a9b15ff8597.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/e1e2cfec5e44c828.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/c8ad183ed0b76b09.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/6e4038cffb877d14.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/27749841b463623e.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":["$","body",null,{"suppressHydrationWarning":true,"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_sans_sc_e8b90152-module__havwTa__variable zcool_kuaile_c401d682-module__GoKCMq__variable antialiased bg-background text-foreground","style":{"fontFamily":"var(--font-noto-sans-sc), var(--font-geist-sans), system-ui, sans-serif"},"children":[["$","div",null,{"id":"plugin-buffer","suppressHydrationWarning":true}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/907df5f0747a8ebf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3724ad384059c1ec.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/b0ad44014ffa08ee.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[95472,["/_next/static/chunks/6e4038cffb877d14.js","/_next/static/chunks/27749841b463623e.js","/_next/static/chunks/907df5f0747a8ebf.js","/_next/static/chunks/3724ad384059c1ec.js","/_next/static/chunks/b0ad44014ffa08ee.js"],"default"]
+f:T872,
+# 在 GitHub Pages 上跑 3D 个人主页
+
+最近折腾了一个新项目：把这只小精灵（首页转圈圈的那位）放到 GitHub Pages 上跑起来。
+听起来简单，实际踩了不少坑，记录一下。
+
+## 技术栈
+
+- **Next.js 16** + TypeScript
+- **Three.js** 通过 `@react-three/fiber` + `@react-three/drei`
+- **Framer Motion** 做动画
+- **Tailwind CSS** + shadcn/ui 做样式
+- 部署到 **GitHub Pages**
+
+## 难点 1：3D 模型加载
+
+模型是 Blender 导出的 glTF 格式，包含：
+
+```
+wenqi.gltf    # 模型结构
+wenqi.bin     # 顶点数据
+Image_0.jpg   # 纹理 0
+Image_1.jpg   # 纹理 1
+Image_2.jpg   # 纹理 2
+```
+
+把整个文件夹放到 `/public/wenqi-model/` 下，用 `useGLTF` 加载即可：
+
+```tsx
+import { useGLTF } from "@react-three/drei";
+
+function Model({ url }: { url: string }) {
+  const { scene } = useGLTF(url);
+  return <primitive object={scene} scale={1.15} />;
+}
+```
+
+为了让它"活起来"，加了几个细节：
+
+- 自动旋转 + 上下浮动
+- 鼠标移动时相机微微跟随
+- 加了 `Sparkles` 粒子让画面更有氛围
+- 用 `ContactShadows` 让模型"接地"
+
+## 难点 2：GitHub Pages 是纯静态的
+
+GitHub Pages 不支持任何后端。文章发布怎么办？
+
+我的方案是：
+
+1. 文章以 Markdown 文件形式存在仓库里（`public/articles/*.md`）
+2. 一个 prebuild 脚本扫描这些文件，生成 `index.json`
+3. 前端 fetch 这个 JSON 拿到文章列表
+4. 想发新文章时，通过 GitHub Contents API 把 Markdown 文件 commit 到仓库
+5. GitHub Actions 自动重新构建并部署
+
+这样既保留了"后台"的体验，又完全是静态的。✨
+
+## 难点 3：性能优化
+
+3D + 粒子 + 动画，很容易卡。我做了这些优化：
+
+- 用 `dynamic(() => import(...), { ssr: false })` 让 3D 只在客户端加载
+- 限制了 Canvas 的 `dpr` 在 `[1, 2]` 之间
+- 粒子数量根据屏幕大小动态计算
+- 用 `useMemo` 缓存克隆的模型场景
+
+## 结语
+
+最终效果你已经在首页看到了。如果你也想搭一个类似的网站，
+欢迎 fork 我的仓库，把里面的内容换成你自己的就好。
+
+祝你折腾愉快！🚀
+5:["$","$Le",null,{"article":{"slug":"build-3d-personal-site","title":"用 Next.js + Three.js 在 GitHub Pages 上跑 3D 个人主页","excerpt":"技术干货：怎么在静态托管的环境里集成 3D 模型、动画、还要能发布文章。一份踩坑全记录。","date":"2026-06-30T16:30:00+08:00","tags":["技术","Next.js","Three.js","GitHub Pages"],"cover":"$undefined","content":"$f"},"related":[{"slug":"hello-world","title":"你好，世界！欢迎来到 WenQi 的小宇宙","date":"2026-06-28T10:00:00+08:00","tags":["随笔","公告"]},{"slug":"2026-reading-list","title":"我的 2026 上半年书单：5 本让我重新看世界的小书","date":"2026-06-15T20:00:00+08:00","tags":["读书","生活"]}],"repoInfo":"$undefined"}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+c:[["$","title","0",{"children":"用 Next.js + Three.js 在 GitHub Pages 上跑 3D 个人主页 | WenQi"}],["$","meta","1",{"name":"description","content":"技术干货：怎么在静态托管的环境里集成 3D 模型、动画、还要能发布文章。一份踩坑全记录。"}],["$","meta","2",{"name":"author","content":"WenQi"}],["$","meta","3",{"name":"keywords","content":"WenQi,文七,个人主页,博客,3D,Portfolio,Personal Website"}],["$","meta","4",{"property":"og:title","content":"用 Next.js + Three.js 在 GitHub Pages 上跑 3D 个人主页"}],["$","meta","5",{"property":"og:description","content":"技术干货：怎么在静态托管的环境里集成 3D 模型、动画、还要能发布文章。一份踩坑全记录。"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"WenQi · 文七的小宇宙"}],["$","meta","9",{"name":"twitter:description","content":"WenQi 的个人主页 — 一个充满奇思妙想的小宇宙。"}]]

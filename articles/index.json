@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "build-3d-personal-site",
+    "title": "用 Next.js + Three.js 在 GitHub Pages 上跑 3D 个人主页",
+    "excerpt": "技术干货：怎么在静态托管的环境里集成 3D 模型、动画、还要能发布文章。一份踩坑全记录。",
+    "date": "2026-06-30T16:30:00+08:00",
+    "tags": [
+      "技术",
+      "Next.js",
+      "Three.js",
+      "GitHub Pages"
+    ],
+    "readingTime": 2
+  },
+  {
+    "slug": "hello-world",
+    "title": "你好，世界！欢迎来到 WenQi 的小宇宙",
+    "excerpt": "这是这个博客的第一篇文章。聊聊为什么我要做这个网站，以及它未来会变成什么样子。",
+    "date": "2026-06-28T10:00:00+08:00",
+    "tags": [
+      "随笔",
+      "公告"
+    ],
+    "readingTime": 2
+  },
+  {
+    "slug": "2026-reading-list",
+    "title": "我的 2026 上半年书单：5 本让我重新看世界的小书",
+    "excerpt": "不是经典必读，不是畅销榜单，只是上半年里随机翻过的 5 本让我停下来想一想的书。",
+    "date": "2026-06-15T20:00:00+08:00",
+    "tags": [
+      "读书",
+      "生活"
+    ],
+    "readingTime": 2
+  }
+]
